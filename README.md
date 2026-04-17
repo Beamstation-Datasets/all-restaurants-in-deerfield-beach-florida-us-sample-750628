@@ -9,9 +9,9 @@
 | Dataset ID | `750628` |
 | Location | Deerfield Beach |
 | Category | Restaurants |
-| Full dataset size | 130 records |
-| Free sample size | 16 records (12.31%) |
-| Last export | 2026-03-31T15:22:04.430882+00:00 |
+| Full dataset size | 169 records |
+| Free sample size | 16 records (9.47%) |
+| Last export | 2026-04-14T16:06:34.505976+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-deerfield-beach-florida-us-sample-750628/releases/download/sample-latest/beamstation_750628_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
