@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Deerfield Beach, Florida. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Deerfield Beach, Florida, US",
-  "export_job_id": "153fab33-b2c1-4c84-8f97-ad5351638e8f",
+  "export_job_id": "e60b5dea-9fb5-419d-a37b-5b6676ffdce0",
   "github_org": "Beamstation-Datasets",
   "id_short": 750628,
   "location_name": "Deerfield Beach",
   "location_type": "city",
   "repo_name": "all-restaurants-in-deerfield-beach-florida-us-sample-750628",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/750628/beamstation_750628_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 12.31,
+  "sample_pct": 9.47,
   "sample_records": 16,
   "sample_sha256": "1c8c79a90c0c0a013de0372d8b9f430f5dfdffd475f84c3e19efcfa9ef10ad29",
   "sample_size_bytes": 62511,
-  "total_records": 130,
-  "updated_at": "2026-03-31T15:22:04.430882+00:00"
+  "total_records": 169,
+  "updated_at": "2026-04-14T16:06:34.505976+00:00"
 }
