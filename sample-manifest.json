@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ece7f91a-a6dd-4d6d-a95f-01fa786d807a",
+  "export_job_id": "b915435e-f905-4e01-b4b5-3a25bb88473a",
   "id_short": 750628,
-  "published_at": "2026-04-21T19:47:13Z",
+  "published_at": "2026-04-28T19:57:03Z",
   "repo_name": "all-restaurants-in-deerfield-beach-florida-us-sample-750628",
   "sample_asset_name": "beamstation_750628_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/750628/beamstation_750628_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "ddcd6d8a6354c4e72dfc4fada79d728b5d1f23646ddc1a9a5618b2c178dbb3f0",
-  "sample_size_bytes": 57621,
-  "total_records": 147
+  "sample_records": 17,
+  "sample_sha256": "d8b4cf3ed946f1f66309341c02579273cfb1dcc25e6b11ba4071d529e311ee77",
+  "sample_size_bytes": 78128,
+  "total_records": 174
 }
