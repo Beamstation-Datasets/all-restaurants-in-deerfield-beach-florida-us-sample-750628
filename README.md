@@ -1,6 +1,6 @@
 # All Restaurants in Deerfield Beach, Florida, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `750628` |
 | Location | Deerfield Beach |
 | Category | Restaurants |
-| Full dataset size | 147 records |
-| Free sample size | 14 records (9.52%) |
-| Last export | 2026-04-21T17:28:44.239605+00:00 |
+| Full dataset size | 174 records |
+| Free sample size | 17 records (9.77%) |
+| Last export | 2026-04-28T18:34:45.148526+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-deerfield-beach-florida-us-sample-750628/releases/download/sample-latest/beamstation_750628_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
